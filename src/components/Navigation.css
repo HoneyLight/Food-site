@@ -1,0 +1,17 @@
+.navigation{
+    padding: 10px;
+    box-shadow: 2px 2px 2px rgba(195, 195, 194, 5);
+    display: flex;
+    justify-content: space-between;
+}
+.navigation ul{
+    display: flex;
+    list-style: none;
+}
+.list{
+    padding: 10px;
+}
+.nav-link{
+    text-decoration: none;
+    color: black;
+}
